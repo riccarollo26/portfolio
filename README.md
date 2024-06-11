@@ -57,13 +57,13 @@ I am a passionate and dedicated data scientist with a strong background in mathe
 - **Gene Expression Data Analysis for Cancer Detection**: Analyzed biomedical datasets to construct a binary classifier determining cell hypoxia states.
 - **E-Commerce Customer Segmentation**: Transformed transaction data into customer samples and utilized K-prototypes clustering technique, visualizing results with t-SNE.
 - **Taxi Tip Prediction Challenge**: Predicted taxi tip amounts using NYC taxi ride data, evaluated by Mean Absolute Error (MAE).
-- 
+
 ### Languages
 - English (fluent)
 - Italian (fluent)
 - French (intermediate)
 
-### Coding Languages
+### Programming Languages and Libraries
 - Python (pandas, seaborn, matplotlib, scikit-learn, puLP)
 - Java
 - SQL
